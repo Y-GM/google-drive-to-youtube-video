@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-import httplib
+import http.client as httplib
 import httplib2
 import os
 import random
